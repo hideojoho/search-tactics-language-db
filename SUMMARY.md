@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Language Selection 言語選択](README.md)
+* [検索意図発話DB](README.md)
 
