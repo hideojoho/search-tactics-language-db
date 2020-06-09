@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Search Intent Utterance DB](README.md)
+* [Search Tactics Language DB](README.md)
 
