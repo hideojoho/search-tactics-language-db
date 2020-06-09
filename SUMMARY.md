@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Language Selection 言語選択](README.md)
 
