@@ -1,2 +1,2 @@
-# Search Intent Utterance DB
+# Initial page
 
