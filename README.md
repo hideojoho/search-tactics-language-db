@@ -1,2 +1,2 @@
-# 検索意図発話DB
+# Initial page
 
