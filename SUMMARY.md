@@ -1,4 +1,4 @@
 # Table of contents
 
-* [検索意図発話DB](README.md)
+* [検索方略言語表現DB](README.md)
 
