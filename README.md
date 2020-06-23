@@ -18,6 +18,10 @@ description: 言語化された検索方略の表現DB
 
 {% page-ref page="user/tactics-user-000.md" %}
 
+## 問い合わせ
+
+本DBに含まれるデータに関して、ご指摘や質問等ございましたら、大変お手数ですが、以下の問い合わせフォームからご連絡ください。
+
 ## 謝辞
 
 {% hint style="success" %}
